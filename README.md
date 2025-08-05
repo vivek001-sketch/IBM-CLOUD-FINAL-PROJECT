@@ -28,13 +28,14 @@ In industrial systems, detecting and classifying faults early is crucial to mini
 ## 📊 Results
 
 ### 🔹 Result 1
-![Result 1](images/result1.png)
+![Result 1](Result%201%20Screenshot.JPG)
 
 ### 🔹 Result 2
-![Result 2](images/result2.png)
+![Result 2](Result%202%20Screenshot.JPG)
 
 ### 🔹 Result 3
-![Result 3](images/result3.png)
+![Result 3](Result%203%20Screenshot.JPG)
 
 ### 🔹 Result 4
-![Result 4](images/result4.png)
+![Result 4](Result%204%20Screenshot.JPG)
+
