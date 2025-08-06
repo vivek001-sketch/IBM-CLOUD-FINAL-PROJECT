@@ -66,17 +66,18 @@ In industrial systems, detecting and classifying faults early is crucial to mini
 - **IBM AutoAI / Jupyter Notebook** – For model experimentation
 - **IBM Watson Machine Learning** – For model deployment
 
-## 📊 Results
+## 📊 Project Results
 
 ### 🔹 Result 1
-![Result 1](Result%201%20Screenshot.JPG)
+![Project Result 1](Project%20Result%201%20Screenshot.JPG)
 
 ### 🔹 Result 2
-![Result 2](Result%202%20Screenshot.JPG)
+![Project Result 2](Project%20Result%202%20Screenshot.JPG)
 
 ### 🔹 Result 3
-![Result 3](Result%203%20Screenshot.JPG)
+![Project Result 3](Project%20Result%203%20Screenshot.JPG)
 
 ### 🔹 Result 4
-![Result 4](Result%204%20Screenshot.JPG)
+![Project Result 4](Project%20Result%204%20Screenshot.JPG)
+
 
